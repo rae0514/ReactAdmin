@@ -1,0 +1,9 @@
+.detailTitle {
+    font-weight: bold;
+}
+
+.detailImg {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
